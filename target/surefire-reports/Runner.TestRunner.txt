@@ -1,0 +1,350 @@
+-------------------------------------------------------------------------------
+Test set: Runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 0.834 s <<< FAILURE! -- in Runner.TestRunner
+User Login.Login with valid credentials -- Time elapsed: 0.092 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User open the application URL navigate to login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User open the application URL navigate to login Page")
+public void user_open_the_application_url_navigate_to_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enters valid Email Address {string}")
+public void user_enters_valid_email_address(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter the valid password {string}")
+public void user_enter_the_valid_password(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on login button")
+public void click_on_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user is successfully login")
+public void user_is_successfully_login() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User Login.Login with invalid credentials -- Time elapsed: 0.004 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User open the application URL navigate to login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User open the application URL navigate to login Page")
+public void user_open_the_application_url_navigate_to_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enters invalid Email Address {string}")
+public void user_enters_invalid_email_address(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter the invalid password {string}")
+public void user_enter_the_invalid_password(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on login button")
+public void click_on_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user should get proper warning message")
+public void user_should_get_proper_warning_message() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User Login.Login with invalid email address -- Time elapsed: 0.011 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User open the application URL navigate to login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User open the application URL navigate to login Page")
+public void user_open_the_application_url_navigate_to_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enters invalid Email Address {string}")
+public void user_enters_invalid_email_address(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter the valid password {string}")
+public void user_enter_the_valid_password(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on login button")
+public void click_on_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user should get proper warning message")
+public void user_should_get_proper_warning_message() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User Login.Login with invalid password address -- Time elapsed: 0.008 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User open the application URL navigate to login Page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User open the application URL navigate to login Page")
+public void user_open_the_application_url_navigate_to_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enters invalid Email Address {string}")
+public void user_enters_invalid_email_address(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter the invalid password {string}")
+public void user_enter_the_invalid_password(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on login button")
+public void click_on_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user should get proper warning message")
+public void user_should_get_proper_warning_message() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+To test the user register functionality of ninja website.Register with mandatory fields. -- Time elapsed: 0.016 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User open the application and navigate to resiter page' and 10 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User open the application and navigate to resiter page")
+public void user_open_the_application_and_navigate_to_resiter_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user click on register button")
+public void user_click_on_register_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("enter the first name {string}")
+public void enter_the_first_name(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Last name {string}")
+public void last_name(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("telephone number {string}")
+public void telephone_number(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Email address {string}")
+public void email_address(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("enter the password {string}")
+public void enter_the_password(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("enter the confirmed password {string}")
+public void enter_the_confirmed_password(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on check box to confirm the above details")
+public void click_on_check_box_to_confirm_the_above_details() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on submit button")
+public void click_on_submit_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("system should register the member and account created successfully.")
+public void system_should_register_the_member_and_account_created_successfully() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+To test the user register functionality of ninja website.Register with duplicate  email address . -- Time elapsed: 0.019 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User open the application and navigate to resiter page' and 10 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User open the application and navigate to resiter page")
+public void user_open_the_application_and_navigate_to_resiter_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user click on register button")
+public void user_click_on_register_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("enter the first name {string}")
+public void enter_the_first_name(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Last name {string}")
+public void last_name(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("telephone number {string}")
+public void telephone_number(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Email address {string}")
+public void email_address(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("enter the password {string}")
+public void enter_the_password(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("enter the confirmed password {string}")
+public void enter_the_confirmed_password(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on check box to confirm the above details")
+public void click_on_check_box_to_confirm_the_above_details() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on submit button")
+public void click_on_submit_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("system should display duplicate email address waring message.")
+public void system_should_display_duplicate_email_address_waring_message() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+To test the user register functionality of ninja website.Register with all fields. -- Time elapsed: 0.020 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User open the application and navigate to resiter page' and 11 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User open the application and navigate to resiter page")
+public void user_open_the_application_and_navigate_to_resiter_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user click on register button")
+public void user_click_on_register_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("enter the first name {string}")
+public void enter_the_first_name(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Last name {string}")
+public void last_name(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("telephone number {string}")
+public void telephone_number(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Email address {string}")
+public void email_address(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("enter the password {string}")
+public void enter_the_password(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("enter the confirmed password {string}")
+public void enter_the_confirmed_password(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user click on Yes in newsletter")
+public void user_click_on_yes_in_newsletter() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on check box to confirm the above details")
+public void click_on_check_box_to_confirm_the_above_details() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on submit button")
+public void click_on_submit_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("system should register the member.")
+public void system_should_register_the_member() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+To test the user register functionality of ninja website.Register without providing any fields. -- Time elapsed: 0.006 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User open the application and navigate to resiter page' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User open the application and navigate to resiter page")
+public void user_open_the_application_and_navigate_to_resiter_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user don't enter any deatils in any field")
+public void user_don_t_enter_any_deatils_in_any_field() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on submit button")
+public void click_on_submit_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("warning message should be displayed.")
+public void warning_message_should_be_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
